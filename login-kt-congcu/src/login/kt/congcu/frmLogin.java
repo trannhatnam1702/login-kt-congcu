@@ -9,7 +9,7 @@ package login.kt.congcu;
  * @author NHAT NAM
  */
 public class frmLogin extends javax.swing.JFrame {
-
+    int a = 0;
     /**
      * Creates new form frmLogin
      */
